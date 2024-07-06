@@ -1,3 +1,3 @@
-# PracticalCyberSecurityResources-
+# PracticalCyberSecurityResources
 PracticalCyberSecurityResources
 ## Contents
